@@ -9,14 +9,15 @@
 
 This repo contains the code for the paper [Scaling Physical Reasoning with the PHYSICS Dataset](https://arxiv.org/abs/2506.00022).
 
+## 🔥 News
+- *2025.09*: 🎉 Our [PHYSICS](https://arxiv.org/abs/2506.00022) is accepted by NeurIPS 2025.
+
 ## Overview
 
 We introduce a large-scale, high-quality, and widely challenging PHYSICS dataset for training and evaluation, along with a Rule+Model assessment framework, providing a novel solution for enhancing the physics reasoning capabilities of large models.
 
 <p align="center"><img src="img/example.png" style="width: 85%;"></p>
 
-## 🔥 News
-- *2025.09*: 🎉 Our [PHYSICS](https://arxiv.org/abs/2506.00022) is accepted by NeruIPS 2025.
 
 ## Data process
 
